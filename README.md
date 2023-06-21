@@ -5,4 +5,3 @@
 ![image](https://github.com/vlantonakos/jsp-servlet-hibernate-mysql/assets/107072477/25b0c819-60de-40ca-a1ce-aa436fe82522)
 ## EDIT USER
 ![image](https://github.com/vlantonakos/jsp-servlet-hibernate-mysql/assets/107072477/139f395d-a00b-4e42-969d-950c1731b09c)
-
